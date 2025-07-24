@@ -1,0 +1,4 @@
+langgraph==0.5.3
+langchain==0.3.26
+openai==1.96.1
+tiktoken==0.9.0

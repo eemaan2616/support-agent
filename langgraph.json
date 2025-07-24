@@ -1,0 +1,7 @@
+{
+  "entrypoint": "main:app",
+  "inputs": {
+    "subject": "string",
+    "description": "string"
+  }
+}
